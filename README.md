@@ -1,4 +1,5 @@
 This is copied from the PDF file so I strongly suggest you to read the Excersize1_IC00AI83.pdf file.
+https://github.com/berkemremert/Exercise1_IC00AI83/blob/43d8070c222cf1f649a671224075d53e7a8c36a1/Excersize1.pdf
 
 Berk Emre Mert
 bmert24@student.oulu.fi
